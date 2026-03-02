@@ -5,7 +5,7 @@ How To Run Locally-
 1. Clone repository
    git clone https://github.com/Abhisheksaini25/Task1-InterDepartmentWorkflowAutomation.git
    
-2. Go inside project
+2. Go inside project 
    cd hospital-workflow-system
 
 3. Install dependencies
@@ -16,8 +16,8 @@ How To Run Locally-
 
 5. Add your values inside .env
 
-6. Start server
-   npm run dev
+6. Backend    Start server     and     frontend  inside public folder 
+              npm run dev                 run index.html
 
 7. For login as Admin
    Email: admin@hospital.com
